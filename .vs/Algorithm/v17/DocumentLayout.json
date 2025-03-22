@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imper\\Git\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5558C93-25F6-41DF-851D-1019DE0A5E79}|LeetCodeCs\\LeetCodeCs.csproj|c:\\users\\imper\\git\\algorithm\\leetcodecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5558C93-25F6-41DF-851D-1019DE0A5E79}|LeetCodeCs\\LeetCodeCs.csproj|solutionrelative:leetcodecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60051B87-CD51-4F2C-900B-BE9B5264C553}|BaekJoonCpp\\BaekJoonCpp.vcxproj|C:\\Users\\imper\\Git\\Algorithm\\BaekJoonCpp\\BaekJoonCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60051B87-CD51-4F2C-900B-BE9B5264C553}|BaekJoonCpp\\BaekJoonCpp.vcxproj|solutionrelative:BaekJoonCpp\\BaekJoonCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imper\\Git\\Algorithm\\LeetCodeCs\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeCs\\Program.cs",
+              "ToolTip": "C:\\Users\\imper\\Git\\Algorithm\\LeetCodeCs\\Program.cs",
+              "RelativeToolTip": "LeetCodeCs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:37:17.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaekJoonCpp.cpp",
+              "DocumentMoniker": "C:\\Users\\imper\\Git\\Algorithm\\BaekJoonCpp\\BaekJoonCpp.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCpp\\BaekJoonCpp.cpp",
+              "ToolTip": "C:\\Users\\imper\\Git\\Algorithm\\BaekJoonCpp\\BaekJoonCpp.cpp",
+              "RelativeToolTip": "BaekJoonCpp\\BaekJoonCpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T14:36:09.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
