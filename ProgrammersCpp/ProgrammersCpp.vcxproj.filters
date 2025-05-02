@@ -26,5 +26,8 @@
     <ClInclude Include="S140108.h">
       <Filter>Solution</Filter>
     </ClInclude>
+    <ClInclude Include="S147355.h">
+      <Filter>Solution</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

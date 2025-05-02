@@ -2,10 +2,12 @@
 //
 #include <iostream>
 
-#include "S140108.h"
+#include "S147355.h"
 
 int main()
 {
-	std::cout << solution140108("abcdefghijklmnopqrstuvwxyz");
+	std::cout << solution147355("3141592", "271") << std::endl;
+	std::cout << solution147355("500220839878", "7") << std::endl;
+	std::cout << solution147355("10203", "15") << std::endl;
 }
 
