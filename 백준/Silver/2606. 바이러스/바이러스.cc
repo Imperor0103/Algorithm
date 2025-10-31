@@ -109,13 +109,13 @@ int main()
 
 	// 문제 조건: 1번 컴퓨터에서 시작
 	// DFS(재귀)
-	//DFS_Recursive(adj, visited, N, 1, &count);
+	DFS_Recursive(adj, visited, N, 1, &count);
 
 	// DFS(비재귀)
 	//DFS_Iterative(adj, visited, N, 1, &count);
 
 	// BFS
-	BFS(adj, visited, N, 1, &count);
+	//BFS(adj, visited, N, 1, &count);
 
 	cout << count << '\n';
 	return 0;
